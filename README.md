@@ -29,7 +29,7 @@
 **Legenda: 1: Imprescendível, 2: Importante, 3: Desejável**.</br> 
 <br>
 
- ## 🏁 Sprint Backlog da 1ª Sprint(18/08 - 1)<br>
+ ## 🏁 Sprint Backlog da 1ª Sprint(18/08 - 18/09)<br>
  - Cadastro de vagas de emprego;</br>
  - Cadastrar/login do candidato;</br>
  - Cadastro/login RH.</br>
