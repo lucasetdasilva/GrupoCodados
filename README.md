@@ -14,17 +14,17 @@
 
 ## :page_facing_up: Backlog do Produto: <br>
 - Anexo de currículo;<br>
-- Implementar progresso do candidato;<br>
-- Cadastrar cadidato a vaga;<br>
+- Implementação de progresso do candidato;<br>
+- Cadastro de candidato a vaga;<br>
 - Login do candidato;<br>
-- Avaliar candidato;<br>
-- Criar relatorio de vaga;<br>
-- Visualizar candidatos aprovados;<br>
+- Avaliação de candidato;<br>
+- Criação de relatorio de vaga pelo RH;<br>
+- Visualização de candidatos aprovados;<br>
 - Criar modelo de entidade relacional;<br>
 - Criar tabela para armazenar dados;<br>
-- Estabelecer Relacionamento com as tabelas;</br>
-- Gerar relatorios para o RH;</br>
+- Estabelecer relacionamento com as tabelas;</br>
+- Geração de relatorios para o RH;</br>
 - Login do RH;</br>
-- Visualizar vagas de emprego.</br>
+- Visualização de vagas de emprego.</br>
 **Legenda: 1: Imprescendível, 2: Importante, 3: Desejável**.</br> 
 <br>
