@@ -9,5 +9,5 @@
 | `Júlia Pereira Quitério` | Desenvolvedora |
 | `Lucas Emanoel Teixeira Engracio da Silva` | Product Owner |
 | `Marcella Yanes Borges do Amaral` | Scrum Master |
-| `Felipe dos Santos Bispo` | Desenvolvedora |
+| `Felipe dos Santos Bispo` | Desenvolvedor |
 <br>
