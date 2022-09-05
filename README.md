@@ -26,7 +26,6 @@
 - Geração de relatorios para o RH;</br>
 - Login do RH;</br>
 - Visualização de vagas de emprego.</br>
-**Legenda: 1: Imprescendível, 2: Importante, 3: Desejável**.</br> 
 <br>
 
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
