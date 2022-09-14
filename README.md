@@ -1,8 +1,6 @@
 # Grupo Codados
 
-<center>
 ![logo codados](https://user-images.githubusercontent.com/102192948/190279055-e7e18d35-75c4-4e28-84d3-02102f1ccd23.gif)
-
 
 ## Integrantes do grupo :woman_technologist: :man_technologist: : </br>
 | Integrante | Função |
