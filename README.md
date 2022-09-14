@@ -1,12 +1,5 @@
 # Grupo Codados
-
-![logo codados](https://user-images.githubusercontent.com/102192948/190278022-a44d83a4-45aa-41a0-aea3-7d48e0c08be6.gif)
-
-## :hammer: Funcionalidades 1°Sprint: </br>
-- `Cadastro de vagas de emprego`: Nesta função, o RH poderá cadastrar as vagas disponíveis na empresa. </br>
-- `Cadastro/login do candidato`: Através desta função, o usuário poderá fazer seu cadastro na plataforma, ver seu perfil e atualizar seus dados.</br>
-- `Cadastro/login do RH`: O RH poderá fazer seu cadastro e publicar as vagas disponíveis na empresa.</br>
-</br>   
+  
 
 ## Integrantes do grupo :woman_technologist: :man_technologist: : </br>
 | Integrante | Função |
@@ -37,6 +30,6 @@
 <br>
 
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
- - Cadastro de vagas de emprego;</br>
- - Cadastrar/login do candidato;</br>
- - Cadastro/login RH.</br>
+ - Interface das vagas de emprego;</br>
+ - Interface do candidato;</br>
+ - Interface do RH.</br>
