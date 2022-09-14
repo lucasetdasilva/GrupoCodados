@@ -1,6 +1,6 @@
 # Grupo Codados
 
-## :hammer: Funcionalidades: </br>
+## :hammer: Funcionalidades 1°Sprint: </br>
 - `Cadastro de vagas de emprego`: Nesta função, o RH poderá cadastrar as vagas disponíveis na empresa. </br>
 - `Cadastro/login do candidato`: Através desta função, o usuário poderá fazer seu cadastro na plataforma, ver seu perfil e atualizar seus dados.</br>
 - `Cadastro/login do RH`: O RH poderá fazer seu cadastro e publicar as vagas disponíveis na empresa.</br>
