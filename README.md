@@ -1,8 +1,6 @@
 # Grupo Codados
 
-div align="center"
-imgsrc="https://user-images.githubusercontent.com/102192948/190278022-a44d83a4-45aa-41a0-aea3-7d48e0c08be6.gif"width="0px" /
-div/
+![logo codados](https://user-images.githubusercontent.com/102192948/190278022-a44d83a4-45aa-41a0-aea3-7d48e0c08be6.gif)
 
 ## :hammer: Funcionalidades 1°Sprint: </br>
 - `Cadastro de vagas de emprego`: Nesta função, o RH poderá cadastrar as vagas disponíveis na empresa. </br>
