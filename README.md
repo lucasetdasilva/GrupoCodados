@@ -39,6 +39,6 @@
 <br><br>
 
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
- - Interface das vagas de emprego;</br>
- - Interface do candidato;</br>
+ - Interface das Vagas de Emprego;</br>
+ - Interface do Candidato;</br>
  - Interface do RH.</br>
