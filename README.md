@@ -10,21 +10,22 @@
 | --- | --- |
 | `Cainan Thomas Branco Santos` | Desenvolvedor |
 | `Daniele de Jesus Souza` | Desenvolvedora |
+| `Felipe dos Santos Bispo` | Desenvolvedor |
 | `Guilherme Augusto Wunderlich Serapião` | Desenvolvedor |
 | `Júlia Pereira Quitério` | Desenvolvedora |
 | `Lucas Emanoel Teixeira Engracio da Silva` | Product Owner |
 | `Marcella Yanes Borges do Amaral` | Scrum Master |
-| `Felipe dos Santos Bispo` | Desenvolvedor |
-<br>
+<br><br>
 
-## :page_facing_up: Backlog do Produto: <br>
+## :page_facing_up: Backlog do Produto:
+<br>
 - Anexo de currículo;<br>
-- Implementação de progresso do candidato;<br>
-- Cadastro de candidato a vaga;<br>
-- Login do candidato;<br>
-- Avaliação de candidato;<br>
-- Criação de relatorio de vaga pelo RH;<br>
-- Visualização de candidatos aprovados;<br>
+- Implementação de progresso do Candidato;<br>
+- Cadastro do Candidato a vaga;<br>
+- Login do Candidato;<br>
+- Avaliação de Candidato;<br>
+- Criação de relatório de vaga pelo RH;<br>
+- Visualização de Candidatos Aprovados;<br>
 - Criar modelo de entidade relacional;<br>
 - Criar tabela para armazenar dados;<br>
 - Estabelecer relacionamento com as tabelas;</br>
@@ -34,6 +35,8 @@
 <br>
 
 ## :compass: Cronograma:
+
+<br><br>
 
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
  - Interface das vagas de emprego;</br>
