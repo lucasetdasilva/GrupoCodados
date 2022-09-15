@@ -33,6 +33,8 @@
 - Visualização de vagas de emprego.</br>
 <br>
 
+## :compass: Cronograma:
+
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
  - Interface das vagas de emprego;</br>
  - Interface do candidato;</br>
