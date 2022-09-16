@@ -39,7 +39,7 @@
 
 ## :compass: Cronograma:
 ![Screenshot](Crono.png)
-<br>
+<br><br>
 
  ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
  - Interface das Vagas de Emprego;</br>
