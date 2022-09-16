@@ -8,7 +8,7 @@
 
 ## Sobre o Projeto :desktop_computer:
 <br>
-* PRO4Jobs é um  
+* PRO4Jobs é um 
 
 ## Integrantes do grupo :woman_technologist: :man_technologist: : </br>
 | Integrante | Função |
