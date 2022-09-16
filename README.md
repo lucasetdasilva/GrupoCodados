@@ -2,15 +2,12 @@
 <br>
 <h2 align="center">
 
-![logo codados](https://user-images.githubusercontent.com/102192948/190279055-e7e18d35-75c4-4e28-84d3-02102f1ccd23.gif)
-</h2>
-<br>
 
 ## Sobre o Projeto :desktop_computer:
 <br>
 * PRO4Jobs é um 
 
-## Integrantes do grupo :woman_technologist: :man_technologist: : </br>
+## Integrantes do grupo :man_technologist: : </br>
 | Integrante | Função |
 | --- | --- |
 | `Cainan Thomas Branco Santos` | Desenvolvedor |
@@ -38,12 +35,15 @@
 - Login do RH;</br>
 - Visualização de vagas de emprego.</br>
 <br>
+ 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09):
+
+<br>
+ - Cadastro do candidato;</br>
+
+
 
 ## :compass: Cronograma:
 ![Screenshot](Crono.png)
 <br><br>
 
- ## 🏁 Sprint Backlog da 1ª Sprint(29/08 - 18/09)<br>
- - Interface das Vagas de Emprego;</br>
- - Interface do Candidato;</br>
- - Interface do RH.</br>
+
