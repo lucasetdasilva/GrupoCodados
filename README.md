@@ -20,6 +20,7 @@
 <br>
 
 ## :page_facing_up: Backlog do Produto:
+
 <br>
 - Anexo de currículo;<br>
 - Implementação de progresso do Candidato;<br>
